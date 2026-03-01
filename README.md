@@ -83,7 +83,7 @@ Here’s the "Pros" section formatted as bullet points for your README file:
 1. **Install Python 3.x**
 2. **Run the script:**
    ```bash
-   python dynamic_pathfinder.py
+   python dynamic-pathfinder.py
    ```
 3. **Interact with the grid:**
    - Click to add/remove obstacles
